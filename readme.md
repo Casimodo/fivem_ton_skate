@@ -1,7 +1,7 @@
 ## 📜 Description
 Ce mini projet est une **ressource pour FiveM** (testé sous ESX) permet d'avoir un skate
 
-[![Nom de la vidéo](https://github.com/Casimodo/fivem_ton_skate/capture.png)](https://www.youtube.com/watch?v=kYnrPfvGr0w)
+[![Nom de la vidéo](https://raw.githubusercontent.com/Casimodo/fivem_ton_skate/refs/heads/main/capture.png)](https://www.youtube.com/watch?v=kYnrPfvGr0w)
 
 ---
 
