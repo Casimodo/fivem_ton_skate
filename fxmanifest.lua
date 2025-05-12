@@ -1,7 +1,7 @@
 fx_version "cerulean"
 game "gta5"
 
-name "ton_raycast"
+name "ton_skate"
 description "Permet l'utilisation d'un skate"
 author "tontonCasi@twitch"
 version "1.0.0"
