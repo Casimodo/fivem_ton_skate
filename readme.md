@@ -63,6 +63,6 @@ Installation des addons
 
 ---
 
-## 🚀 Utilisation / 
+## 🚀 Utilisation
 
 Aller dans votre inventaire et utiliser le skate
